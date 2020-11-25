@@ -10,7 +10,7 @@ For those who're not familiar with PLT Redex Team and wanna take a look at Redex
 * [OPLSS Talks by David Van Horn](https://www.youtube.com/playlist?list=PL0DsGHMPLUWXFt7slbLYijUBFSJzsPVze)
 
 ## Books
-* [SEwPR](https://redex.racket-lang.org/sewpr-preface.html)
+* [Semantics Engineering with PLT Redex](https://redex.racket-lang.org/sewpr-preface.html)
 
 ## Courses
 * [CPSC 539B – Compiler Theory by William J. Bowman](https://www.williamjbowman.com/teaching/2019/w2/cpsc539b/index.html)
