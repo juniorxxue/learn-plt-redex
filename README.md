@@ -1,5 +1,5 @@
 # Resources for Learning PLT Redex
-For those who's not familiar with PLT Redex Team and wanna take a look at Redex.
+For those who're not familiar with PLT Redex Team and wanna take a look at Redex.
 
 ## Tutorials
 * [Redex Doc(short tutorial + long tutorial)](https://docs.racket-lang.org/redex/index.html)
