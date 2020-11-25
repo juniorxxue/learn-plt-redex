@@ -2,10 +2,15 @@
 For those who's not familiar with PLT Redex Team and wanna take a look at Redex.
 
 ## Tutorials
-* [Redex Doc](https://docs.racket-lang.org/redex/index.html)
+* [Redex Doc(short tutorial + long tutorial)](https://docs.racket-lang.org/redex/index.html)
 * [An Introduction to Redex with Abstracting Abstract Machines by David Van Horn](https://dvanhorn.github.io/redex-aam-tutorial/)
-* [OPLSS Talks by David Van Horn](https://www.youtube.com/playlist?list=PL0DsGHMPLUWXFt7slbLYijUBFSJzsPVze)
 * [Experimenting with Languages in Redex by William J. Bowman](https://williamjbowman.com/doc/experimenting-with-redex/index.html)
+
+## Videos
+* [OPLSS Talks by David Van Horn](https://www.youtube.com/playlist?list=PL0DsGHMPLUWXFt7slbLYijUBFSJzsPVze)
+
+## Books
+* [SEwPR](https://redex.racket-lang.org/sewpr-preface.html)
 
 ## Courses
 * [CPSC 539B – Compiler Theory by William J. Bowman](https://www.williamjbowman.com/teaching/2019/w2/cpsc539b/index.html)
