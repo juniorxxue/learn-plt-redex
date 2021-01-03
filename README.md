@@ -6,6 +6,10 @@ For those who're not familiar with PLT Redex Team and wanna take a look at Redex
 * [An Introduction to Redex with Abstracting Abstract Machines by David Van Horn](https://dvanhorn.github.io/redex-aam-tutorial/)
 * [Experimenting with Languages in Redex by William J. Bowman](https://williamjbowman.com/doc/experimenting-with-redex/index.html)
 
+## Paper
+
+* [Automated Testing for Operational Semantics from Burke Fetscher](https://plt.eecs.northwestern.edu/fetscher-phd.pdf)
+
 ## Videos
 * [OPLSS Talks by David Van Horn](https://www.youtube.com/playlist?list=PL0DsGHMPLUWXFt7slbLYijUBFSJzsPVze)
 
