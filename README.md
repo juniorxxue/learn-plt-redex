@@ -25,3 +25,10 @@ For those who're not familiar with PLT Redex Team and wanna take a look at Redex
 
 ## Others
 * [PLT Redex FAQ](http://prl.ccs.neu.edu/blog/2017/09/25/plt-redex-faq/)
+
+## Notes
+
+Evaluation context has been hevaily used in PLT Redex examples. Some links below may help :)
+
+* [Why do I need evaluation contexts in Redex?](https://stackoverflow.com/questions/42010495/why-do-i-need-evaluation-contexts-in-redex)
+* [Evaluation context in textbook PFPL]()
