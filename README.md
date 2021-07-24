@@ -18,7 +18,6 @@ For those who're not familiar with PLT Redex Team and wanna take a look at Redex
 
 ## Courses
 * [CPSC 539B – Compiler Theory by William J. Bowman](https://www.williamjbowman.com/teaching/2019/w2/cpsc539b/index.html)
-* [CMSC631 Program Analysis and Understanding by David Van Horn](https://www.cs.umd.edu/class/spring2014/cmsc631/notes.pdf)
 
 ## Examples
 * [racket/redex repo](https://github.com/racket/redex/tree/master/redex-examples/redex/examples)
